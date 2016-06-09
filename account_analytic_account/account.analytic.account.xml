@@ -42,7 +42,6 @@
                     </div>
                 </group>
                 <separator string="Terms and Conditions" name="description" />
-                <field name="x_corpo_contrato" />
                 <field name="description" />
             </page>
             <page string="Cheques">
